@@ -7,6 +7,7 @@ public class Main {
         } if ( age < 18){
             System.out.println("Придется еще подождать(");
         }
+
         System.out.println("Задача 2");
         if ( age >= 7 && age < 18){
             System.out.println("Ты еще ходишь в школу");
